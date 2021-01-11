@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Data Science Specialiazation - Capstone Project
+IBM Data Science Specialization - Capstone Project
